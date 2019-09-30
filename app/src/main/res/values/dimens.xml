@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="gap_0">2dp</dimen>
+    <dimen name="gap_1">4dp</dimen>
+    <dimen name="gap_2">8dp</dimen>
+    <dimen name="gap_3">12dp</dimen>
+    <dimen name="gap_4">16dp</dimen>
+</resources>
